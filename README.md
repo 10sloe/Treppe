@@ -1,4 +1,4 @@
-# Labyrinth
+# Treppe
 
 10. KLasse
 
